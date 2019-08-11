@@ -1,0 +1,30 @@
+ [{
+ "Id" = 0,
+ "Type" = "Major Repair",
+ "Cost" = "150,00"
+ }
+ 
+  {
+ "Id" = 0,
+ "Type" = "Annual Service",
+ "Cost" = "180,00"
+ }
+  
+  {
+ "Id" = 0,
+ "Type" = "Repair/Fault",
+ "Cost"= "100,00"
+ }
+ 
+  {
+ "Id" = 0,
+ "Type" = "Major Service",
+ "Cost" = "150,00"
+ }
+  {
+ "Id" = 0,
+ "Type" = "Major Repair",
+ "Cost" = "200,00"
+ }
+ 
+ ]

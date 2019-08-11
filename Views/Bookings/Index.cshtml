@@ -1,0 +1,91 @@
+﻿@model IEnumerable<Ger_Garage.Models.Booking>
+
+@{
+	ViewData["Title"] = "Index";
+}
+
+<h2>Your Bookings</h2>
+
+
+
+<a asp-action="Create" class="no-print">Create New</a>
+
+
+<form asp-action="Index">
+	<div class="form-group">
+		<input type="date" name="filter" class="no-print" />
+		<input type="submit" value="Filter" class="btn btn-primary no-print" />
+	</div>
+</form>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayNameFor(model => model.TypeOfBooking.Type)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.VehicleLicense)
+			</th>
+			@*<th>
+					@Html.DisplayNameFor(model => model.VehicleEngine)
+				</th>*@
+			<th>
+				@Html.DisplayNameFor(model => model.Comments)
+			</th>
+			<th>
+				@Html.DisplayName("Date")
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.StatusBooking)
+			</th>
+			<th>@Html.DisplayNameFor(model => model.Customer.Name)</th>
+			<th>Total cost</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.TypeOfBooking.Type)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.VehicleLicense)
+				</td>
+				@*<td>
+						@Html.DisplayFor(modelItem => item.VehicleEngine)
+					</td>*@
+				<td>
+					@Html.DisplayFor(modelItem => item.Comments)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.DateTime)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.StatusBooking.Status)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Customer.Name)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Cost)
+				</td>
+				<td>
+					<a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+					<a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+					<a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+
+					@*<form asp-action="Edit" asp-route-id="@item.Id">
+							<button type="submit" class="btn btn-outline-secondary">Edit</button>
+							<button type="submit" class="btn btn-outline-secondary">Details</button>
+							<button type="submit" class="btn btn-outline-secondary">Delete</button>
+						</form>*@
+
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
+<input type="button" class="btn btn-primary" value="Print" onclick="window.print()" />

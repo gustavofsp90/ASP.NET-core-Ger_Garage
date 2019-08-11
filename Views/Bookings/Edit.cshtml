@@ -1,0 +1,93 @@
+﻿@model Ger_Garage.Models.Booking
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Edit Booking</h4>
+<hr />
+<div class="row">
+	<div class="col-md-4">
+		@if (ViewBag.DailyLimit)
+		{
+			<a>The daily limit of bookings has been exceeded. Try again tomorrow.</a>
+		}
+
+		@if (ViewBag.Sunday)
+		{
+			<a>Our garage is closed on Sunday, please select another date.</a>
+		}
+		<form asp-action="Edit">
+			<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+			<div class="dropdown">
+				<label asp-for="TypeOfBookingId" class="control-label">Type of Booking</label>
+				<select asp-for="TypeOfBookingId" asp-items="((IEnumerable<TypeOfBooking>)ViewBag.Types).Select(type => new SelectListItem(type.Type, type.Id.ToString()))" class="form-control"></select>
+			</div>
+			<div class="dropdown">
+				<label asp-for="Vehicle.VehicleStyle" class="control-label">Vehicle Style</label>
+				<select asp-for="Vehicle.VehicleStyle" asp-items="((IEnumerable<Ger_Garage.Models.Enum.VehicleStyle>)ViewBag.VehicleStyles).Select(type => new SelectListItem(type.ToString(), ((int)type).ToString()))" class="form-control"></select>
+			</div>
+			@*<div class="dropdown">
+				<label asp-for="Vehicle.Make" class="control-label">Vehicle Make</label>
+				<select asp-for="Vehicle.Make" asp-items="((IEnumerable<Vehicle>)ViewBag.Vehicles).GroupBy(x=> x.Make).Select(type => new SelectListItem(type.Key.ToString(), type.Key.ToString()))" class="form-control"></select>
+			</div>*@
+			<div class="dropdown">
+				<label asp-for="VehicleId" class="control-label">Vehicle Model</label>
+				<select asp-for="VehicleId" asp-items="((IEnumerable<Vehicle>)ViewBag.Vehicles).Select(type => new SelectListItem(type.Model, type.Id.ToString()))" class="form-control"></select>
+			</div>
+			<div class="dropdown">
+				<label asp-for="Engine" class="control-label">Engine Type</label>
+				<select asp-for="Engine" asp-items="((IEnumerable<Ger_Garage.Models.Enum.Engine>)ViewBag.Engines).Select(type => new SelectListItem(type.ToString(), ((int)type).ToString()))" class="form-control"></select>
+			</div>
+			<div class="form-group">
+				<label asp-for="VehicleLicense" class="control-label">Vehicle License</label>
+				<input asp-for="VehicleLicense" class="form-control" />
+				<span asp-validation-for="VehicleLicense" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="Comments" class="control-label"></label>
+				<textarea asp-for="Comments" rows="5" cols="45"></textarea>
+				<span asp-validation-for="Comments" class="text-danger"></span>
+			</div>
+			<div class="form-group">
+				<label asp-for="DateTime" class="control-label"></label>
+				<input asp-for="DateTime" class="form-control" />
+				<span asp-validation-for="DateTime" class="text-danger"></span>
+			</div>
+
+			@if (User.Identity.IsAuthenticated && User.Claims.Select(claim => new { claim.Type, claim.Value }).ToArray().Any(x => x.Value == "Administrator"))
+			{
+				<div class="dropdown">
+					<label asp-for="StatusBookingId" class="control-label">Booking Status</label>
+					<select asp-for="StatusBookingId" asp-items="((IEnumerable<StatusBooking>)ViewBag.Status).Select(status => new SelectListItem(status.Status, status.Id.ToString()))" class="form-control"></select>
+				</div>
+				<div class="dropdown">
+					<label asp-for="MechanicsIds" class="control-label">Mechanics</label>
+					<select asp-for="MechanicsIds" asp-items="((IEnumerable<Mechanic>)ViewBag.Mechanics).Select(mec => new SelectListItem(mec.Name, mec.Id.ToString()))" class="form-control"></select>
+				</div>
+				<div class="dropdown">
+					<label asp-for="VehiclePartsIds" class="control-label">Parts</label>
+					<select asp-for="VehiclePartsIds" asp-items="((IEnumerable<VehiclePart>)ViewBag.VehicleParts).Select(m => new SelectListItem(m.Part, m.Id.ToString()))" class="form-control"></select>
+				</div>
+				@*<div class="form-group">
+					<label asp-for="Cost" class="control-label"></label>
+					<input asp-for="Cost" class="form-control" />
+					<span asp-validation-for="Cost" class="text-danger"></span>
+				</div>*@
+			}
+			<div class="form-group">
+				<input type="submit" value="Save" class="btn btn-primary" />
+			</div>
+		</form>
+	</div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

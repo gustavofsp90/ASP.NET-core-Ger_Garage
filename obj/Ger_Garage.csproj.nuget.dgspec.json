@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gustavo Passos\\Desktop\\Higher Diploma Science Computing\\Guided Technology Project\\Week 10\\NewGerGarage\\Ger_Garage\\Ger_Garage\\Ger_Garage.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gustavo Passos\\Desktop\\Higher Diploma Science Computing\\Guided Technology Project\\Week 10\\NewGerGarage\\Ger_Garage\\Ger_Garage\\Ger_Garage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gustavo Passos\\Desktop\\Higher Diploma Science Computing\\Guided Technology Project\\Week 10\\NewGerGarage\\Ger_Garage\\Ger_Garage\\Ger_Garage.csproj",
+        "projectName": "Ger_Garage",
+        "projectPath": "C:\\Users\\Gustavo Passos\\Desktop\\Higher Diploma Science Computing\\Guided Technology Project\\Week 10\\NewGerGarage\\Ger_Garage\\Ger_Garage\\Ger_Garage.csproj",
+        "packagesPath": "C:\\Users\\Gustavo Passos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gustavo Passos\\Desktop\\Higher Diploma Science Computing\\Guided Technology Project\\Week 10\\NewGerGarage\\Ger_Garage\\Ger_Garage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gustavo Passos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.11, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.7.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.9, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

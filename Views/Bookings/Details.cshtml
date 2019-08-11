@@ -1,0 +1,107 @@
+﻿@model Ger_Garage.Models.Booking
+
+@{
+	ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+	<h4>Booking Invoice</h4>
+	<hr />
+	<dl class="row">
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.Customer)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.Customer.Name)
+		</dd>
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.Customer.MobilePhone)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.Customer.MobilePhone)
+		</dd>
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.Vehicle.Make)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.Vehicle.Make)
+		</dd>
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.Vehicle.Model)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.Vehicle.Model)
+		</dd>
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.VehicleLicense)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.VehicleLicense)
+		</dd>
+		@*<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.Engine)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.Engine)
+		</dd>*@
+		@*<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.Comments)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.Comments)
+		</dd>*@
+		<dt class="col-sm-2">
+			@Html.DisplayName("Date")
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.DateTime)
+		</dd>
+
+		@*<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.TypeOfBooking)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.TypeOfBooking.Type)
+		</dd>
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.StatusBooking)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.StatusBooking.Status)
+		</dd>*@
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.Cost)
+		</dt>
+		<dd class="col-sm-10">
+			@foreach (VehiclePartBooking item in Model.VehicleParts)
+			{
+				@Html.DisplayFor(model => item.VehiclePart.Part)
+				@Html.DisplayName(": €");
+				@Html.DisplayFor(model => item.VehiclePart.Cost)
+				<br />
+
+			}
+			@Html.DisplayFor(model => model.TypeOfBooking.Type)
+			: &euro;
+			@Html.DisplayFor(model => model.TypeOfBooking.Cost)
+			<br>
+			@Html.DisplayName("Total: ")
+			@Html.DisplayFor(model => model.Cost)
+		</dd>
+		@*<dt class="col-sm-2">
+				@Html.DisplayNameFor(model => model.VehicleType)
+			</dt>
+			<dd class="col-sm-10">
+				@Html.DisplayFor(model => model.VehicleType.Name)
+			</dd>*@
+	</dl>
+</div>
+<input type="button" class="btn btn-primary no-print" value="Print Invoice" onclick="window.print()" />
+<div>
+	<div>Payment due on collection.</div>
+	<a asp-action="Edit" class="no-print" asp-route-id="@Model.Id">Edit</a> <br />
+	<a asp-action="Index" class="no-print">Back to List</a>
+</div>
+

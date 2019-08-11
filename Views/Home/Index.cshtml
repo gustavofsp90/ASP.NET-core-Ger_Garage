@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div id="Slides" class="carousel slide" data-ride="carousel">
+    <ul class="carousel-indicators">
+        <li data-target="#slides" data-slide-to="0" class"active"></li>
+        <li data-target="#slides" data-slide-to="1" class"active"></li>
+        <li data-target="#slides" data-slide-to="2" class"active"></li>
+    </ul>
+
+
+    <div class="carousel-inner">
+        <div class="carousel-item active align-content-lg-center">
+            <img src="~/img/Background06.jpg" height="600" width="1200" />
+            <div class="carousel-caption">
+
+                <h1 class="display-4">Welcome to Ger Garage APP</h1>
+                <h3 class="font-weight-normal"> Need a Repair? Bring your Vehicle to US</h3>
+                <form asp-controller="Bookings" asp-action="Index">
+                    <button type="submit" class="btn btn-primary btn-lg">Make appoitment!</button>
+                </form>
+            </div>
+        </div>
+
+        <div class="carousel-item">
+            <img src="~/img/Background05.jpg" height="600" width="1200" />
+            <div class="carousel-caption">
+
+                <form asp-controller="Home" asp-action="Contact">
+                    <button type="submit" class="btn btn-primary btn-lg">Contact US</button>
+                </form>
+
+            </div>
+        </div>
+
+        <div class="carousel-item">
+            <img src="~/img/Background04.jpg" height="600" width="1200" />
+            <div class="carousel-caption">
+
+            </div>
+        </div>
+    </div>
+
+
+
+</div>

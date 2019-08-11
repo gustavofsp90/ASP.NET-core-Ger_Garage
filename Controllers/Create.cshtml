@@ -1,0 +1,43 @@
+﻿@page
+@model Ger_Garage.Controllers.CreateModel
+
+<h4>Booking</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Booking.VehicleLicense" class="control-label"></label>
+                <input asp-for="Booking.VehicleLicense" class="form-control" />
+                <span asp-validation-for="Booking.VehicleLicense" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Booking.VehicleEngine" class="control-label"></label>
+                <input asp-for="Booking.VehicleEngine" class="form-control" />
+                <span asp-validation-for="Booking.VehicleEngine" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Booking.Comments" class="control-label"></label>
+                <input asp-for="Booking.Comments" class="form-control" />
+                <span asp-validation-for="Booking.Comments" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Booking.DateTime" class="control-label"></label>
+                <input asp-for="Booking.DateTime" class="form-control" />
+                <span asp-validation-for="Booking.DateTime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

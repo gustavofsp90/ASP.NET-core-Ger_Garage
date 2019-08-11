@@ -1,0 +1,29 @@
+ [
+     
+{
+"Id" = 0,
+ "Status" = "Booked"
+ }
+{
+ "Id" = 0,
+ "Status" = "In Service"
+
+ }
+{
+ "Id" = 0,
+ "Status" = "Completed"
+
+ }
+{
+ "Id" = 0,
+ "Status" = "Collected"
+
+ }
+{
+ "Id" = 0,
+ "Status" = "Unrepairable"
+
+ }
+
+ 
+ ]

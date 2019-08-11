@@ -1,0 +1,221 @@
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.deps.json
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.runtimeconfig.json
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.runtimeconfig.dev.json
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.dll
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.csproj.CoreCompileInputs.cache
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.RazorAssemblyInfo.cache
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.RazorAssemblyInfo.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.AssemblyInfoInputs.cache
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.AssemblyInfo.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.TagHelpers.input.cache
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.TagHelpers.output.cache
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.RazorCoreGenerate.cache
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Create.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Delete.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Details.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Edit.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Index.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Mechanics\Create.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Mechanics\Delete.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Mechanics\Details.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Mechanics\Edit.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Mechanics\Index.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\VehicleParts\Create.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\VehicleParts\Delete.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\VehicleParts\Details.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\VehicleParts\Edit.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\VehicleParts\Index.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.RazorTargetAssemblyInfo.cache
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.RazorTargetAssemblyInfo.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.pdb
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.Views.dll
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.Views.pdb
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.Views.pdb
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.dll
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.pdb
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.csproj.CopyComplete
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\Create.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\Delete.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\Details.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\Edit.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\Login.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\AccessDenied.g.cshtml.cs
+C:\Users\desouza_r\Desktop\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.csprojAssemblyReference.cache
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.deps.json
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.runtimeconfig.json
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.runtimeconfig.dev.json
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.dll
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.pdb
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.Views.dll
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.Views.pdb
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.csprojAssemblyReference.cache
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.RazorAssemblyInfo.cache
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.RazorAssemblyInfo.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.AssemblyInfoInputs.cache
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.AssemblyInfo.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.TagHelpers.input.cache
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.TagHelpers.output.cache
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.RazorCoreGenerate.cache
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Create.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Delete.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Details.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Edit.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Index.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Mechanics\Create.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Mechanics\Delete.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Mechanics\Details.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Mechanics\Edit.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Mechanics\Index.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\AccessDenied.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\Create.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\Delete.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\Details.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\Edit.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\Login.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\VehicleParts\Create.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\VehicleParts\Delete.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\VehicleParts\Details.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\VehicleParts\Edit.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\VehicleParts\Index.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.RazorTargetAssemblyInfo.cache
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.RazorTargetAssemblyInfo.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.Views.pdb
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.dll
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.pdb
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 9\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.csproj.CopyComplete
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.deps.json
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.runtimeconfig.json
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.runtimeconfig.dev.json
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.dll
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.pdb
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.Views.dll
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.Views.pdb
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.csproj.CoreCompileInputs.cache
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.RazorAssemblyInfo.cache
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.RazorAssemblyInfo.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.AssemblyInfoInputs.cache
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.AssemblyInfo.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.TagHelpers.input.cache
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.TagHelpers.output.cache
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.RazorCoreGenerate.cache
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Create.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Delete.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Details.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Edit.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Index.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Mechanics\Create.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Mechanics\Delete.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Mechanics\Details.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Mechanics\Edit.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Mechanics\Index.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\AccessDenied.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\Create.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\Delete.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\Details.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\Edit.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\Login.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\VehicleParts\Create.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\VehicleParts\Delete.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\VehicleParts\Details.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\VehicleParts\Edit.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\VehicleParts\Index.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.RazorTargetAssemblyInfo.cache
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.RazorTargetAssemblyInfo.cs
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.Views.pdb
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.dll
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.pdb
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.csproj.CopyComplete
+C:\Users\desouza_r\Desktop\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.csprojAssemblyReference.cache
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.deps.json
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.runtimeconfig.json
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.runtimeconfig.dev.json
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.dll
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.pdb
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.Views.dll
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\bin\Debug\netcoreapp2.1\Ger_Garage.Views.pdb
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.csprojAssemblyReference.cache
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.RazorAssemblyInfo.cache
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.RazorAssemblyInfo.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.AssemblyInfoInputs.cache
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.AssemblyInfo.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.TagHelpers.input.cache
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.TagHelpers.output.cache
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.RazorCoreGenerate.cache
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Create.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Delete.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Details.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Edit.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Bookings\Index.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Mechanics\Create.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Mechanics\Delete.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Mechanics\Details.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Mechanics\Edit.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Mechanics\Index.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\AccessDenied.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\Create.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\Delete.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\Details.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\Edit.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\Users\Login.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\VehicleParts\Create.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\VehicleParts\Delete.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\VehicleParts\Details.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\VehicleParts\Edit.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\VehicleParts\Index.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.RazorTargetAssemblyInfo.cache
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.RazorTargetAssemblyInfo.cs
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.Views.pdb
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.dll
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.pdb
+C:\Users\Gustavo Passos\Desktop\Higher Diploma Science Computing\Guided Technology Project\Week 10\NewGerGarage\Ger_Garage\Ger_Garage\obj\Debug\netcoreapp2.1\Ger_Garage.csproj.CopyComplete
